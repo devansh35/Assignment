@@ -6,18 +6,17 @@ To install this project from GitHub, you can follow these steps:
 
 1. Clone the repository:
    
-```bash
 git clone https://github.com/username/repository.git
 username: devansh35
 repository: Assignment
 
-2. Navigate to the project directory: 
+3. Navigate to the project directory: 
 cd repository
 
-3. Install dependencies:
+4. Install dependencies:
 npm install
 
-4. Start the project:
+5. Start the project:
 npm start / npm run dev 
 
 Make sure Node.js and npm are installed.
