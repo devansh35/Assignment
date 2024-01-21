@@ -1,8 +1,23 @@
-# React + Vite
+# Multilingual Web Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a multilingual web application built with React and Tailwind CSS. It includes a login form and a language selection dropdown. The application is designed for global users and can be adapted to various back-end services.
 
-Currently, two official plugins are available:
+To install this project from GitHub, you can follow these steps:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. **Clone the repository**:
+   
+```bash
+git clone https://github.com/username/repository.git
+username: devansh35
+repository: Assignment
+
+2. **Navigate to the project directory**: 
+cd repository
+
+3. **Install dependencies**:
+npm install
+
+4. **Start the project**:
+npm start / npm run dev 
+
+Make sure Node.js and npm installed.
